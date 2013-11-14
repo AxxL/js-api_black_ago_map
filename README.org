@@ -1,0 +1,24 @@
+* js-api_black_ago_map
+
+/The light gray canvas basemap in black via the -webkit filter/
+
+
+* Introduction
+
+You can change the appearance of any basemap With CSS filters. This works
+mainly in Webkit browsers (Chrome, Opera) but also Firefox supports some of
+these filters. For more information visit: [[http://net.tutsplus.com/tutorials/html-css-techniques/say-hello-to-css3-filters/]["Say Hello to Webkit Filters"]],
+[[http://odoe.net/blog/?p%3D322]["Quick Tip: CSS Filters and your Esri Tiles"]] and [[http://caniuse.com/#feat%3Dcss-filters][caniuse.com]].
+
+This example is based on the [[https://developers.arcgis.com/en/javascript/jssamples/map_simple.html][Create a map]] sample of the [[https://developers.arcgis.com/en/javascript/][ArcGIS API for
+JavaScript]] and changes the [[http://www.arcgis.com/home/item.html?id%3D149a9bb14d604bd18f4597b21c19fac7][Light Gray Canvas]] from ArcGIS Online with the
+=-webkit-filter: invert(100%)= to a black style. See the styles.css for
+details.
+
+# * Screenshot
+
+* Link
+
+https://github.com/AxxL/js-api_black_ago_map
+
+
